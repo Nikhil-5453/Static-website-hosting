@@ -11,7 +11,7 @@ This website is Static which is begnnier project using AWS S3 and CloudFront
             d.) Upload the index.html, styles.css, and script.js files to the bucket.
     Step 2: Make the S3 Bucket Public
             a.) Go to Permissions > Bucket Policy.
-            b.) change bucket policy to make the bucket publicly accessible (Buket policy given in 
+            b.) change bucket policy to make the bucket publicly accessible (Buket policy given)
             c.) Make sure to replace 'YOUR_BUCKET_NAME' with your actual bucket name.
     Step 3: Set Up CloudFront
             a.) Go to the CloudFront console and click Create Distribution.
